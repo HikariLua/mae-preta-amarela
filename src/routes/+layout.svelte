@@ -1,7 +1,7 @@
 <nav>
 	<a href="/">Inicio</a>
 	<a href="/sobre">Sobre</a>
-	<a href="/comunidade">Comunidade</a> |
+	<a href="/acolhimento">Acolhimento</a> |
 	<button>Alto Contraste</button>
 </nav>
 
