@@ -8,17 +8,12 @@
       class="flex flex-col justify-center self-start px-5 mt-1.5 shadow-sm max-md:max-w-full"
     >
 	    
-      <div
-        class="text-4xl font-bold leading-10 text-yellow-400 max-md:max-w-full"
-      >
-        QUEM SOMOS?
-      </div>
-      <div class="mt-6 text-2xl leading-9 text-white max-md:max-w-full">
-        Another subheading—maybe it’s related to the image on the left, or the
-        button below
-      </div>
-    </div>
-    <div
+<div class="relative overflow-hidden">
+  <div class="relative  flex items-left justify-left min-h-screen">
+    <div class="max-w-2xl text-center text-white p-8">
+      <h1 class="text-4xl font-bold text-yellow-500 mb-4">Title Here</h1>
+      <p class="text-lg max-w-screen-sm mx-auto">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi.</p>
+    </div> <div
       class="flex flex-col p-8 font-medium bg-white rounded-xl border border-solid shadow-lg border-neutral-100 leading-[150%] max-md:px-5"
     >
       <div class="text-xl text-black">“A quote from a customer.”</div>
@@ -32,14 +27,25 @@
           <div class="text-black">Name</div>
           <div class="text-zinc-500">Description</div>
         </div>
-      </div>
+
     </div>
+
+    </div>
+    
   </div>
+  </div>
+</div>
+  <!-- svelte-ignore a11y-img-redundant-alt -->
+  <img src="https://images.pexels.com/photos/7328448/pexels-photo-7328448.jpeg" alt="Background Image" class="absolute inset-0 w-full h-full object-cover">
+    </div>
+   
+
   <div
     class="justify-center px-2.5 py-0.5 mt-24 text-2xl font-bold leading-9 text-black bg-yellow-300 rounded-xl max-md:mt-10 max-md:max-w-full"
   >
     Proteja sua criança com informação e acolhimento.
   </div>
+
   <div
     class="justify-center items-center self-stretch px-16 py-2 mt-16 w-full text-3xl font-bold leading-10 text-black bg-yellow-300 max-md:px-5 max-md:mt-10 max-md:max-w-full"
   >
